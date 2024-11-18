@@ -1,0 +1,6 @@
+if(condition):
+    statement1
+elif:
+    statement2
+else:
+    statementN

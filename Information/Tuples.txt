@@ -1,0 +1,16 @@
+A built in data type that lets us create immutable(We cant modify) sequences of values
+We can access tuple elements by using index
+
+A tuple can do Slicing like list and string
+
+tup=(49,87,65,86,10)
+
+ex:
+ tup1=()
+ tup2=(1,)
+tup3=(1,2,3)
+
+
+##Methods in tuple
+tup.index(el) #return the index
+tup.count(el) # counts the total no of occurence

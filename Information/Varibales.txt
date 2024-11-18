@@ -1,0 +1,5 @@
+A variable is name given to a memory location in a program.
+
+name="Aditya"
+age=23
+price=34.67

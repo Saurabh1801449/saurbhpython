@@ -1,0 +1,16 @@
+We use open("filename","mode") method to open the file.
+
+mode types:
+ "r":Open for reading the default
+ "w":open for writing,but it truncating the files first(first delete the entire file then add  the data)
+ "x":create a new file and open it for writing 
+ "a":open for writing ,appending the data at the endof the file if it exists
+ "b":binary mode
+ "t":text mode
+ "+":open a disk file for updating and reading and writing
+
+ "r+":To read and write
+ "w+":To write and read
+ "a+":To append at read
+
+ 

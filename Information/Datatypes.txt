@@ -1,0 +1,7 @@
+##DATATYPES IN PYTHON:
+     **Primary Datatype:
+           .Integers -ve,+ve,0
+           .String  "Aditya" "Ruchita" 'Hello' '''Hola Amigo'''
+           .Float  89.90
+           .Boolean True,False
+           .None  a=none

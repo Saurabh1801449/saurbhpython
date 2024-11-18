@@ -1,0 +1,5 @@
+Letter -A to Z, a to Z
+Digit- 0 to 9
+special_symbols - *,-,+,/ etc
+Whitespaces - Blank Spaces,tab,carriage return,newline,formettedd
+Other Charcaters - Python Can Process all ascii and unicode Charcaters as part of data or filters

@@ -1,0 +1,13 @@
+1.Arithmetic Operators:(+,-,/,*,%,**)
+
+2.Relational/Comaparison Operator:(==,!=,>,<,>=,<=)
+
+3.Assignment Operators:(=,+=,-=,*=,/=,**=)
+
+4.Logical Operators(not,and,or)
+
+5.Identity Operators:( is,is not)  this returns True or False
+
+6.Membership Operators:(in,not in) this return True or False
+
+7.Bitwise

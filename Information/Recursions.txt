@@ -1,0 +1,12 @@
+When a function Call Itself repeatedly
+ def show(n):
+   if(n==0):    #best case
+     return
+   print(n)
+   show(n-1)  
+
+
+#Recusrion will stop when best case will occur
+
+
+It depends upon call-stack

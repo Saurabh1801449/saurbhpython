@@ -1,0 +1,15 @@
+It is the block of statement that performs a specific task.
+
+syntax:
+  def fun_name(para1...):  #Function defination
+      #Body
+      return
+
+  fun_name(arg1...)#Function calling    
+
+
+  ex:
+   def sum(a+b):
+     return a+b
+
+  sum(90+29)   

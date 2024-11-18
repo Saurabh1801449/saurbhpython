@@ -1,0 +1,19 @@
+String is the data type that stores a sequence of Charcaters.
+String are immutable in nature,WE cant change
+
+.Concatenation
+   "Aditya" + "Savant" ---->"AdityaSavant"
+
+.Length Of String
+    len(v_name)   
+
+.Slicing
+    Accesing The Part OF The String
+       str[starting_index:ending index] #ending index is not included
+       str="AdityaSavant"
+       str[1:4]="dit"
+       str[:4]="Adit"
+       str[1:]="ditya" (its is the same as str[1:len(str)])    
+
+       note: negative starting_index
+         str[-3:-1]="ant"

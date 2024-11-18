@@ -1,0 +1,19 @@
+It is the built in datatype that stores set of values
+
+It can store elements of different types(integer,float,string)etc
+
+List are mutable in nature
+
+marks=[100,67,89,90,96]
+student=["Aditya","Rajnandini",45]
+
+
+#Function In List
+  1.Slicing same as string No change
+  2.list.append(45) #add elements at last
+  3 list.sort() #Sorts in ascending order
+  4 list.sort(reverse-True) #Sorts in descending order
+  5 list.reverse() #reverse list
+  6.list.insert(idx,ele) #insert element at the index
+  7 list.clear()
+  8 list.copy()
